@@ -5,3 +5,7 @@
 # Compatible Game Types:
 ## **EXE**
 ## **APK**
+
+# To Do:
+## **Nicer UI**
+## **Pointer Exporting**
